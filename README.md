@@ -84,6 +84,7 @@ Skills for Binance spot and futures trading.
 | [Alchemy](https://github.com/BankrBot/skills/tree/main/alchemy) | Alchemy | EVM JSON-RPC, token balances, NFTs, portfolio, tx simulation | `openclaw skills add BankrBot/alchemy` |
 | [Auto Trading Strategy](https://clawhub.ai/863king/auto-trading-strategy) | 863king | Trading strategy collection and analysis | `openclaw skills add 863king/auto-trading-strategy` |
 | [Trader](https://clawhub.ai/ivangdavila/trader) | ivangdavila | Market analysis, risk management, disciplined strategy execution | `openclaw skills add ivangdavila/trader` |
+| [QuantSet](https://github.com/quantset/skills) | QuantSet | 7 institutional research & quant skills (5Y DCF, Trading Comps, 1-Page HTML Memo, Short-Seller Forensic Audit, Earnings Playbook, 4,899-ETF Portfolio X-Ray) across 36,000+ companies, 127M+ SEC EDGAR XBRL facts & 67 countries | `npx skills add quantset/skills` |
 
 ### Risk Management
 
